@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+
+  .header {
+    background-color: #282c34;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    margin-block: auto;
+    color: white;
+  }
+}
